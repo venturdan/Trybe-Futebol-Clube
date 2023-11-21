@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import UsersController from '../controllers/user.controller';
+import UsersController from '../controllers/Users.controller';
 import LoginValidator from '../middlewares/login.Validation';
 import TokenValidator from '../middlewares/jwt.Validation';
 

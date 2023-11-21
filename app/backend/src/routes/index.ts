@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import TeamsRoute from './team.route';
+import TeamsRoute from './teams.route';
 import UsersRoute from './user.route';
 import MatchesRoute from './matches.route';
 import LeaderboardRoute from './leaderboard.route';

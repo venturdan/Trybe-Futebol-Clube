@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import MatchesController from '../controllers/matches.controller';
+import MatchesController from '../controllers/Matches.controller';
 import TokenValidator from '../middlewares/jwt.Validation';
 import MatchValidator from '../middlewares/match.Validation';
 

@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import TeamsController from '../controllers/team.controller';
+import TeamsController from '../controllers/Teams.controller';
 
 export default class RouterTeam {
   private router: Router;
